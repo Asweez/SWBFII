@@ -1,0 +1,17 @@
+{
+    "blaster": {"category": "player","sounds": [{"name": "blaster","stream": false}]},
+    "sniper": {"category": "player","sounds": [{"name": "sniper","stream": false}]},
+    "forcePush": {"category": "player","sounds": [{"name": "forcePush","stream": false}]},
+    "forcePull": {"category": "player","sounds": [{"name": "forcePull","stream": false}]},
+    "rocketLauncher": {"category": "player","sounds": [{"name": "rocketLauncher","stream": false}]},
+    "choke": {"category": "player","sounds": [{"name": "choke","stream": false}]},
+    "lightsaberHit": {"category": "player","sounds": [{"name": "lightsaberHit","stream": false}]},
+    "jetpack": {"category": "player","sounds": [{"name": "jetpack","stream": false}]},
+    "lightsaberthrow": {"category": "player","sounds": [{"name": "lightsaberthrow","stream": false}]},
+    "chaingun": {"category": "player","sounds": [{"name": "chaingun","stream": false}]},
+    "click": {"category": "player","sounds": [{"name": "click","stream": false}]},
+    "whoosh": {"category": "player","sounds": [{"name": "whoosh","stream": false}]},
+    "lightsaberswing": {"category": "player","sounds": [{"name": "lightsaberswing","stream": false}]}
+
+
+}

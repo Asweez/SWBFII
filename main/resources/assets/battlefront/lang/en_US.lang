@@ -1,0 +1,102 @@
+item.lightsaberblue.name=Lightsaber
+item.lightsabergreen.name=Lightsaber
+item.lightsaberred.name=Lightsaber
+item.lightsaberpurple.name=Lightsaber
+item.lightsaberorange.name=Lightsaber
+item.lightsaberyellow.name=Lightsaber
+item.grenade.name=Grenade
+item.minigun.name=Chaingun
+item.blasterrifle.name=Blaster Rifle
+item.detpack.name=Detpack
+item.detonator.name=Detonator
+item.speeder.name=Speeder
+item.sniper.name=Sniper
+item.ift-x.name=IFT-X
+item.ift-t.name=IFT-T
+
+itemGroup.swbf=Star Wars Battlefront 2
+
+item.clonereghelmet.name=Clone Trooper Helmet
+item.cloneregchest.name=Clone Trooper Chestplate
+item.cloneregleggings.name=Clone Trooper Leggings
+item.cloneregboots.name=Clone Trooper Boots
+item.clonejethelmet.name=Jet Trooper Helmet
+item.clonejetchest.name=Jet Trooper Chestplate
+item.clonejetleggings.name=Jet Trooper Leggings
+item.clonejetboots.name=Jet Trooper Boots
+item.clonesniperhelmet.name=Clone Sharpshooter Helmet
+item.clonesniperchest.name=Clone Sharpshooter Chestplate
+item.clonesniperleggings.name=Clone Sharpshooter Leggings
+item.clonesniperboots.name=Clone Sharpshooter Boots
+item.cloneheavyhelmet.name=Clone Heavy Trooper Helmet
+item.cloneheavychest.name=Clone Heavy Trooper Chestplate
+item.cloneheavyleggings.name=Clone Heavy Trooper Leggings
+item.cloneheavyboots.name=Clone Heavy Trooper Boots
+item.cloneenghelmet.name=Clone Engineer Helmet
+item.cloneengchest.name=Clone Engineer Chestplate
+item.cloneengleggings.name=Clone Engineer Leggings
+item.cloneengboots.name=Clone Engineer Boots
+item.clonecomhelmet.name=Clone Commander Helmet
+item.clonecomchest.name=Clone Commander Chestplate
+item.clonecomleggings.name=Clone Commander Leggings
+item.clonecomboots.name=Clone Commander Boots
+
+item.trooperreghelmet.name=Stormtrooper Helmet
+item.trooperregchest.name=Stormtrooper Chestplate
+item.trooperregleggings.name=Stormtrooper Leggings
+item.trooperregboots.name=Stormtrooper Boots
+
+item.troopersniperhelmet.name=Scout Trooper Helmet
+item.troopersniperchest.name=Scout Trooper Chestplate
+item.troopersniperleggings.name=Scout Trooper Leggings
+item.troopersniperboots.name=Scout Trooper Boots
+
+item.troopershockhelmet.name=Shock Trooper Helmet
+item.troopershockchest.name=Shock Trooper Chestplate
+item.troopershockleggings.name=Shock Trooper Leggings
+item.troopershockboots.name=Shock Trooper Boots
+
+item.trooperenghelmet.name=Imperial Engineer Helmet
+item.trooperengchest.name=Imperial Engineer Chestplate
+item.trooperengleggings.name=Imperial Engineer Leggings
+item.trooperengboots.name=Imperial Engineer Boots
+
+item.trooperdarkhelmet.name=Dark Trooper Helmet
+item.trooperdarkchest.name=Dark Trooper Chestplate
+item.trooperdarkleggings.name=Dark Trooper Leggings
+item.trooperdarkboots.name=Dark Trooper Boots
+
+item.trooperoffhelmet.name=Imperial Officer Helmet
+item.trooperoffchest.name=Imperial Officer Chestplate
+item.trooperoffleggings.name=Imperial Officer Leggings
+item.trooperoffboots.name=Imperial Officer Boots
+
+item.rebelreghelmet.name=Rebel Soldier Helmet
+item.rebelregchest.name=Rebel Soldier Chestplate
+item.rebelregleggings.name=Rebel Soldier Leggings
+item.rebelregboots.name=Rebel Soldier Boots
+
+item.rebelsniperhelmet.name=Rebel Marksman Helmet
+item.rebelsniperchest.name=Rebel Marksman Chestplate
+item.rebelsniperleggings.name=Rebel Marksman Leggings
+item.rebelsniperboots.name=Rebel Marksman Boots
+
+item.rebelheavyhelmet.name=Rebel Vanguard Helmet
+item.rebelheavychest.name=Rebel Vanguard Chestplate
+item.rebelheavyleggings.name=Rebel Vanguard Leggings
+item.rebelheavyboots.name=Rebel Vanguard Boots
+
+item.rebelenghelmet.name=Rebel Smuggler Helmet
+item.rebelengchest.name=Rebel Smuggler Chestplate
+item.rebelengleggings.name=Rebel Smuggler Leggings
+item.rebelengboots.name=Rebel Smuggler Boots
+
+item.wookiehelmet.name=Wookie Helmet
+item.wookiechest.name=Wookie Chestplate
+item.wookieleggings.name=Wookie Leggings
+item.wookieboots.name=Wookie Boots
+
+item.bothanspyhelmet.name=Bothan Spy Helmet
+item.bothanspychest.name=Bothan Spy Chestplate
+item.bothanspyleggings.name=Bothan Spy Leggings
+item.bothanspyboots.name=Bothan Spy Boots
